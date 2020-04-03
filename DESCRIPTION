@@ -11,3 +11,20 @@ LazyData: true
 RoxygenNote: 7.0.2
 URL: https://github.com/zhuan043/p2
 BugReports: https://github.com/zhuan043/p2/issues
+Imports: 
+      HDtest,
+      Hmisc,
+      WGCNA,
+      corpcor,
+      doParallel,
+      ggplot2,
+      mvtnorm,
+      tmvtnorm,
+      parallel,
+      foreach,
+      cluster,
+      factoextra,
+      taRifx,
+      multtest,
+      stats,
+      doSNOW
